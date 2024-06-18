@@ -3,13 +3,8 @@ import Footer from "@/src/layout/footers/footer";
 import Header from "@/src/layout/headers/header";
 import React from "react";
 import AboutArea from "../../../common/about-area";
-import FeatureArea from "./feature-area";
 import HeroSlider from "./hero-slider";
-import PriceArea from "./price-area";
-import ProjectArea from "./project-area";
-import RankArea from "./rank-area";
-import ServicesArea from "./services-area";
-import TestimonialArea from "./testimonial-area";
+
 
 const HomeOne = () => {
   return (
